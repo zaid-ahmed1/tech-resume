@@ -1,60 +1,121 @@
-<!-- The (first) h1 will be used as the <title> of the HTML page -->
-# Richard Hendricks
+# Zaid Ahmed
 
-<!-- The unordered list immediately after the h1 will be formatted on a single
-line. It is intended to be used for contact details -->
-- <richard.hendriks@mail.com>
-- (912) 555-4321
-- [richardhendricks.example.com](http://richardhendricks.example.com)
-- San Francisco, CA
+<div align="center">
 
-<!-- The paragraph after the h1 and ul and before the first h2 is optional. It
-is intended to be used for a short summary. -->
-CEO and Software Engineer with knowledge of applied information theory,
-including optimizing lossless compression schema of both the length-limited and
-adaptive variants.
+Calgary, Canada | <a href="https://zaid-ahmed.me">zaid-ahmed.me</a> | <a href="mailto:contact@zaid-ahmed.me">contact@zaid-ahmed.me</a> | <a href="https://www.linkedin.com/in/zaid-ahmed88/">LinkedIn</a>
 
-## Experience
-
-<!-- You have to wrap the "left" and "right" half of these headings in spans by
-hand -->
-### <span>CEO/President, Pied Piper</span> <span>Dec 2013 -- Dec 2014</span>
-
-Pied Piper is a multi-platform technology based on a proprietary universal
-compression algorithm that has consistently fielded high Weisman Scores™ that
-are not merely competitive, but approach the theoretical limit of lossless
-compression.
-
- - Build an algorithm for artist to detect if their music was violating
-   copyright infringement laws
- - Successfully won Techcrunch Disrupt
- - Optimized an algorithm that holds the current world record for Weisman Scores
-
-### <span>Teacher, CoderDojo</span> <span>July 2013 -- Dec 2013</span>
-
-Global movement of free coding clubs for young people.
-
- - Awarded 'Teacher of the Month'
-
-## Projects
-
-### <span>Miss Direction</span> <span>Aug 2016</span>
-
-A mapping engine that misguides you:
-
-   - Won award at AIHacks 2016
-   - Built by all women team of newbie programmers
-   - Using modern technologies such as GoogleMaps, Chrome Extension and Javascript
+</div>
 
 ## Education
 
-### <span>University of Oklahoma, BA Information Technology</span> <span>2011 -- 2014</span>
-
-  - GPA 4.0
-  - DB1101 - Basic SQL
-  - CS2011 - Java Introduction
+Bachelor of Science, Software Engineering  
+Expected Graduation: May 2026  
+University of Calgary
 
 ## Skills
 
- - Web development: HTML, CSS, JavaScript
- - Compression: Mpeg, MP4, GIF
+- **Languages:** Python, C, C++, C#, Java, SQL, HTML, JavaScript
+- **Frameworks/Libraries:** Keras, TensorFlow, Pandas, Polars, Fusion360, Unity, MRTK, Node.js, React.js, Three.js, Tailwind, Bootstrap, Dagster
+- **Other Technologies:** CSS, JSON, YAML, Excel, Adobe Suite, Fusion 360, Blender
+
+## Work Experience
+
+**Software Engineer Co-op - Development and Production Data Solutions**  
+**Cenovus Energy**  
+January 2024 – December 2024  
+
+- Collaborated with Canadian Oil Sands and Thermal Heavy Oil Operations Development and Production teams to understand their data needs and challenges.
+- Designed and developed end-to-end data and analytics solutions tailored to the requirements of different teams.
+- Implemented full-stack development solutions, including full-stack frameworks such as Ruby on Rails.
+- Performed data engineering tasks such as data ingestion, transformation, and storage optimization.
+- Orchestrated data pipelines for efficient and reliable data processing using tools such as Dagster.
+- Conducted analysis and reporting on large datasets to derive actionable insights.
+- Applied machine learning and statistical inference techniques to solve complex business problems.
+- Documented processes, workflows, and technical implementations to ensure knowledge sharing and maintain accurate records.
+- Participated in training sessions and workshops to enable teams in adopting and effectively utilizing data solutions.  
+
+**Software Deployment Intern**  
+**Vertical City**  
+July 2023 – August 2023  
+
+- Deployed and maintained Ubuntu 20 on elevator/lobby screens, ensuring optimal functionality and performance.
+- Executed comprehensive documentation processes, fostering organized record-keeping for future reference and audits.
+- Conducted in-depth data analysis to identify trends, potential improvements, and areas for system optimization, contributing to enhanced overall efficiency.
+- Worked closely with the Lead of Property Support to establish and maintain robust communication channels, facilitating seamless updates on elevator screens.
+- Proactively addressed any technical issues, employing a problem-solving approach to minimize downtime and ensure uninterrupted elevator screen operations.
+
+## Projects
+
+**BraVRy**  
+
+- Developed a virtual reality exposure therapy simulation to help the millions of Canadians suffering from
+anxiety-related illnesses.
+- Uses cutting-edge VR technology, comprehensive biotracking and evidence-based exposure therapy protocols.
+- Developed using the Meta Quest 2 and Unity Editor for natHacks 2023, Canada's largest neurotech hackathon.
+- Recieved 2nd place along with seed funding and in-kind support for the project.
+- [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7132226090411913216/)  
+
+**Swipe-Talk Augmented Reality Project**  
+
+- Created a "swipe to talk" hand-movement tracking application in mixed reality using the Microsoft HoloLens 2 and Unity Editor in less than 24 hours.
+- Designed for non-speaking individuals with autism who may have difficulty with gross motor skills.
+- Completed for the Institute of Electrical and Electronics Engineers (IEEE) SIGHT ProjectVoice Hackathon.
+- Received 1st place along with a monetary prize.
+- [Video Demonstration](https://www.youtube.com/watch?v=3G_DJazPcFc)  
+
+**Alzheimer’s Disease Machine Learning Model**  
+
+- Created a machine learning classification model which takes in MRI scans as well as patient data and diagnoses patients with 90% accuracy.
+- Used Python, Pandas, Keras, and TensorFlow along with the ResNet-50 convolutional neural network.
+- [GitHub Repository](https://github.com/zaid-ahmed1/ResNet50-for-Alzheimers-Diagnosis)  
+
+**Snow Pro**  
+
+- Developed a 2D platformer using Unity and C# scripts.
+- Contains Microsoft Azure PlayFab backend for live leaderboard tracking.
+- [GitHub Repository](https://github.com/zaid-ahmed1/Snow-Pro)  
+
+**Portfolio Website**  
+
+- Developed my own personal portfolio website with React, Three.js, and Vite.
+- Used Blender to generate my own 3D renders.
+- [Zaid's Portfolio](https://zaid-ahmed.me)
+
+**Lotion – Notes App**  
+
+- A fully-functional note-taking app built in React.
+- Uses Google Authentication as well as AWS DynamoDB Backend.
+- Built using Terraform and Lambda handler functions.
+- [Lotion App](https://dancing-mousse-b4cb28.netlify.app/)
+
+## Awards
+
+- 1st Place at IEEE SIGHT ProjectVoice Hackathon September 2023 ([LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7114748287076769792/)) 
+- 2nd Place at NeurAlbertaTech natHacks Hackathon November 2023 ([News Article](https://www.ucalgary.ca/news/ucalgary-students-create-vr-mental-health-platform-enhance-accessibility-treatment))
+- 3rd Place at MedTech HackMedTech Hackathon February 2023 ([LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7034317764576088064))
+
+## Volunteer Experiences
+
+**Mentor**  
+January 2022 – January 2023  
+Schulich Ignite
+
+- Taught students how to program in Python using the processing library.
+- Debugged code and provided individualized project advice.
+- Marked code submissions, providing feedback and advice.
+
+**VP Operations and Finance**  
+May 2023 – Present  
+Robogals UCalgary
+
+- Helping the advancement of representation in the STEM fields through volunteering for and operating the club.
+- Handling large-scale financial transactions and sponsor agreements.
+- Developing budget guidelines and forecasting the fiscal year.
+
+**High School Math and Science Tutor**  
+Math 2022 – May 2023  
+YMCA Calgary
+
+- Helped students find their academic potential as a tutor.
+- Provided one-on-one tutoring as well as group lessons.
+- Helped students with diploma prep crash course.
