@@ -20,7 +20,7 @@ University of Calgary
 
 ## Work Experience
 
-**Software Engineer Co-op - Development and Production Data Solutions**  
+### Software Engineer Co-op - Development and Production Data Solutions
 **Cenovus Energy**  
 January 2024 – December 2024  
 
@@ -34,19 +34,18 @@ January 2024 – December 2024
 - Documented processes, workflows, and technical implementations to ensure knowledge sharing and maintain accurate records.
 - Participated in training sessions and workshops to enable teams in adopting and effectively utilizing data solutions.  
 
-**Software Deployment Intern**  
+### Software Deployment Intern
 **Vertical City**  
 July 2023 – August 2023  
 
 - Deployed and maintained Ubuntu 20 on elevator/lobby screens, ensuring optimal functionality and performance.
 - Executed comprehensive documentation processes, fostering organized record-keeping for future reference and audits.
-- Conducted in-depth data analysis to identify trends, potential improvements, and areas for system optimization, contributing to enhanced overall efficiency.
 - Worked closely with the Lead of Property Support to establish and maintain robust communication channels, facilitating seamless updates on elevator screens.
 - Proactively addressed any technical issues, employing a problem-solving approach to minimize downtime and ensure uninterrupted elevator screen operations.
 
 ## Projects
 
-**BraVRy**  
+### BraVRy
 
 - Developed a virtual reality exposure therapy simulation to help the millions of Canadians suffering from
 anxiety-related illnesses.
@@ -55,7 +54,7 @@ anxiety-related illnesses.
 - Recieved 2nd place along with seed funding and in-kind support for the project.
 - [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7132226090411913216/)  
 
-**Swipe-Talk Augmented Reality Project**  
+### Swipe-Talk Augmented Reality Project
 
 - Created a "swipe to talk" hand-movement tracking application in mixed reality using the Microsoft HoloLens 2 and Unity Editor in less than 24 hours.
 - Designed for non-speaking individuals with autism who may have difficulty with gross motor skills.
@@ -63,25 +62,26 @@ anxiety-related illnesses.
 - Received 1st place along with a monetary prize.
 - [Video Demonstration](https://www.youtube.com/watch?v=3G_DJazPcFc)  
 
-**Alzheimer’s Disease Machine Learning Model**  
+### Alzheimer’s Disease Machine Learning Model
 
 - Created a machine learning classification model which takes in MRI scans as well as patient data and diagnoses patients with 90% accuracy.
 - Used Python, Pandas, Keras, and TensorFlow along with the ResNet-50 convolutional neural network.
 - [GitHub Repository](https://github.com/zaid-ahmed1/ResNet50-for-Alzheimers-Diagnosis)  
 
-**Snow Pro**  
+### Snow Pro  
 
 - Developed a 2D platformer using Unity and C# scripts.
 - Contains Microsoft Azure PlayFab backend for live leaderboard tracking.
 - [GitHub Repository](https://github.com/zaid-ahmed1/Snow-Pro)  
 
-**Portfolio Website**  
+
+### Portfolio Website  
 
 - Developed my own personal portfolio website with React, Three.js, and Vite.
 - Used Blender to generate my own 3D renders.
 - [Zaid's Portfolio](https://zaid-ahmed.me)
 
-**Lotion – Notes App**  
+### Lotion – Notes App  
 
 - A fully-functional note-taking app built in React.
 - Uses Google Authentication as well as AWS DynamoDB Backend.
@@ -96,7 +96,7 @@ anxiety-related illnesses.
 
 ## Volunteer Experiences
 
-**Mentor**  
+### Mentor  
 January 2022 – January 2023  
 Schulich Ignite
 
@@ -104,7 +104,7 @@ Schulich Ignite
 - Debugged code and provided individualized project advice.
 - Marked code submissions, providing feedback and advice.
 
-**VP Operations and Finance**  
+### VP Operations and Finance  
 May 2023 – Present  
 Robogals UCalgary
 
@@ -112,7 +112,9 @@ Robogals UCalgary
 - Handling large-scale financial transactions and sponsor agreements.
 - Developing budget guidelines and forecasting the fiscal year.
 
-**High School Math and Science Tutor**  
+
+
+### High School Math and Science Tutor  
 Math 2022 – May 2023  
 YMCA Calgary
 
