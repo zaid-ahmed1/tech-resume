@@ -53,7 +53,8 @@ anxiety-related illnesses.
 - Developed using the Meta Quest 2 and Unity Editor for natHacks 2023, Canada's largest neurotech hackathon.
 - Recieved 2nd place along with seed funding and in-kind support for the project.
 - [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7132226090411913216/)  
-
+- Pitched for Ontario Brain Institute's Neurotech Competition at Inventures 2024, a conference with over 4000 attendees
+- [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7203527122890493953/)
 ### Swipe-Talk Augmented Reality Project
 
 - Created a "swipe to talk" hand-movement tracking application in mixed reality using the Microsoft HoloLens 2 and Unity Editor in less than 24 hours.
@@ -90,9 +91,10 @@ anxiety-related illnesses.
 
 ## Awards
 
-- 1st Place at IEEE SIGHT ProjectVoice Hackathon September 2023 ([LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7114748287076769792/)) 
-- 2nd Place at NeurAlbertaTech natHacks Hackathon November 2023 ([News Article](https://www.ucalgary.ca/news/ucalgary-students-create-vr-mental-health-platform-enhance-accessibility-treatment))
-- 3rd Place at MedTech HackMedTech Hackathon February 2023 ([LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7034317764576088064))
+- 1st Place at IEEE SIGHT ProjectVoice Hackathon - September 2023 ([LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7114748287076769792/)) 
+- 2nd Place at NeurAlbertaTech natHacks Hackathon - November 2023 ([News Article](https://www.ucalgary.ca/news/ucalgary-students-create-vr-mental-health-platform-enhance-accessibility-treatment))
+- 3rd Place at MedTech HackMedTech Hackathon - February 2023 ([LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7034317764576088064))
+- Finalist for Ontario Brain Institute Pitch Competition - May 2024 ([LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7203527122890493953/))
 
 ## Volunteer Experiences
 
@@ -115,7 +117,7 @@ Robogals UCalgary
 
 
 ### High School Math and Science Tutor  
-Math 2022 – May 2023  
+May 2022 – May 2023  
 YMCA Calgary
 
 - Helped students find their academic potential as a tutor.
