@@ -53,8 +53,18 @@ anxiety-related illnesses.
 - Developed using the Meta Quest 2 and Unity Editor for natHacks 2023, Canada's largest neurotech hackathon.
 - Recieved 2nd place along with seed funding and in-kind support for the project.
 - [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7132226090411913216/)  
-- Pitched for Ontario Brain Institute's Neurotech Competition at Inventures 2024, a conference with over 4000 attendees
+- Pitched for Ontario Brain Institute's Neurotech Competition at Inventures 2024, a conference with over 4000 attendees.
+- Secured 10,000 in funding from the Helios and Cumming School of Medicine Research Innovation Award.
 - [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7203527122890493953/)
+
+### Causal Machine Learning Paper On Mental Health Outcomes
+
+- Conducted an observational study using BRFSS data to examine the impact of adverse childhood experiences (ACEs) on mental health.
+- Applied causal machine learning algorithms to determine the average treatment effect (ATE) of each ACE on mental health outcomes.
+- Used Uplift Random Forest trees to calculate uplift scores.
+- Key findings: Parental depression increased depressive disorder likelihood by 30% and added 5.07 bad mental health days per month; forced sex increased depressive disorder likelihood by 33% and added 5.77 bad mental health days.
+- Developed for STEM Fellowship's Inter-University Big Data Challenge 2024.
+
 ### Swipe-Talk Augmented Reality Project
 
 - Created a "swipe to talk" hand-movement tracking application in mixed reality using the Microsoft HoloLens 2 and Unity Editor in less than 24 hours.
@@ -96,7 +106,7 @@ anxiety-related illnesses.
 - 3rd Place at MedTech HackMedTech Hackathon - February 2023 ([LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7034317764576088064))
 - Finalist for Ontario Brain Institute Pitch Competition - May 2024 ([LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7203527122890493953/))
 
-## Volunteer Experiences
+<!-- ## Volunteer Experiences
 
 ### Mentor  
 January 2022 – January 2023  
@@ -122,4 +132,4 @@ YMCA Calgary
 
 - Helped students find their academic potential as a tutor.
 - Provided one-on-one tutoring as well as group lessons.
-- Helped students with diploma prep crash course.
+- Helped students with diploma prep crash course. -->
