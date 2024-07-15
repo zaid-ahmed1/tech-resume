@@ -64,6 +64,7 @@ anxiety-related illnesses.
 - Used Uplift Random Forest trees to calculate uplift scores.
 - Key findings: Parental depression increased depressive disorder likelihood by 30% and added 5.07 bad mental health days per month; forced sex increased depressive disorder likelihood by 33% and added 5.77 bad mental health days.
 - Developed for STEM Fellowship's Inter-University Big Data Challenge 2024.
+- [Video Presentation](https://www.youtube.com/watch?v=v02aLw8aeRQ)
 
 ### Swipe-Talk Augmented Reality Project
 
