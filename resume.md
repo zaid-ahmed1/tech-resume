@@ -8,7 +8,7 @@ Calgary, Canada | <a href="https://zaid-ahmed.me">zaid-ahmed.me</a> | <a href="m
 
 ## Education
 
-Bachelor of Science, Software Engineering
+Bachelor of Science, Software Engineering  
 Expected Graduation: May 2026  
 University of Calgary
 
